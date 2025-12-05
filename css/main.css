@@ -1,0 +1,46 @@
+/* reset user agent styles */
+
+*,
+*::after,
+*::before {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* end of reset user agent styles */
+/* variables */
+
+:root {
+    --bg-page-color: #FFF9EC;
+    --logo-color: #FF4D1B;
+    --text-head-icon-card-color: #F54900;
+    --text-head-icon-card-color-rgb: 245, 73, 0;
+    --icon-card-bg-color: #FFEDD4;
+    --icon-card-bg-color-hover: #FFD6A7;
+    --scroll-card-color: #FFDBD2;
+    --sodium-icon-color: #E60076;
+    --sodium-icon-bg-color: #FCE7F3;
+    --checked-icon-bg-color: #E17100;
+    --prep-icon-list-items-color: #FF6900;
+    --alert-bg-color: #FEF2F2;
+    --recipe-button-lin-color: #E7000B;
+}
+
+/* end of variables */
+/* navbar */
+
+.user-avatar {
+    width: 2.5rem;
+}
+
+.logo-color {
+    color: var(--logo-color);
+    text-shadow: 0px 5px 6px lightgrey;
+}
+
+#nav .navbar-nav {
+    --bs-navbar-hover-color: var(--text-head-icon-card-color);
+}
+
+/* end of navbar */
