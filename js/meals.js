@@ -946,14 +946,9 @@ function changeRecipeDetails() {
                                                     </div>
                                                 </div>`;
 
-        // alert visibility
-        if (meal.recipeCookTime > 45 || meal.recipePrepTime > 45) {
-            document.getElementById("alert").classList.replace("d-none", "d-block");
-        };
+    // alert visibility
+    if (meal.recipeCookTime > 45 || meal.recipePrepTime > 45) {
+        document.getElementById("alert").classList.replace("d-none", "d-block");
+    };
 };
-
-
-
-
-
 changeRecipeDetails();
