@@ -1,0 +1,153 @@
+/* reset user agent styles */
+
+*,
+*::after,
+*::before {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    scrollbar-color: var(--scroll-card-color) transparent;
+    scrollbar-width: thin;
+}
+
+::-webkit-scrollbar {
+    scrollbar-color: var(--scroll-card-color) transparent;
+}
+
+/* end of reset user agent styles */
+/* variables */
+
+:root {
+    --bg-page-color: #FFF9EC;
+    --logo-color: #FF4D1B;
+    --text-head-icon-card-color: #F54900;
+    --first-recipe-button-colour: #FB2D36;
+    --first-recipe-button-colour-rgb: 251, 45, 54;
+    --icon-card-bg-color: #FFEDD4;
+    --icon-card-bg-color-hover: #FFD6A7;
+    --scroll-card-color: #FFDBD2;
+    --sodium-icon-color: #E60076;
+    --sodium-icon-bg-color: #FCE7F3;
+    --checked-icon-bg-color: #E17100;
+    --prep-icon-list-items-color: #FF6900;
+    --second-recipe-button-colour-rgb: 255, 105, 0;
+    --alert-bg-color: #FEF2F2;
+    --chef-tip-bg-colour: #FFFBEB;
+    --recipe-button-lin-color: linear-gradient(to left, rgba(var(--first-recipe-button-colour-rgb), 0.8), rgba(var(--second-recipe-button-colour-rgb), 1));
+}
+
+/* end of variables */
+/* main styles */
+
+body {
+    background-color: var(--bg-page-color);
+}
+
+/* end of main styles */
+/* navbar */
+
+.user-avatar {
+    width: 2.5rem;
+}
+
+.logo-color {
+    color: var(--logo-color);
+    text-shadow: 0px 5px 6px lightgrey;
+}
+
+#nav .navbar-nav {
+    --bs-navbar-hover-color: var(--text-head-icon-card-color);
+}
+
+/* end of navbar */
+/* meal */
+
+#meal .card {
+    height: 750px;
+}
+
+#meal img {
+    height: 750px;
+}
+
+.rate-position {
+    top: 3%;
+    left: 5%;
+}
+
+.preparation-recipe-width {
+    width: 90%
+}
+
+.preparation-recipe-position {
+    bottom: 3%;
+}
+
+.icon-prep-colour {
+    color: var(--prep-icon-list-items-color);
+}
+
+.card-height {
+    height: 750px;
+}
+
+.list-items-bg-colour {
+    background-color: var(--prep-icon-list-items-color);
+}
+
+.text-head-icon-card-colour {
+    color: var(--text-head-icon-card-color);
+}
+
+.bg-icon-card-colour {
+    color: var(--icon-card-bg-color);
+}
+
+.recipe-name span:hover .bg-icon-card-colour {
+    color: var(--icon-card-bg-color-hover);
+}
+
+.bg-alert-colour {
+    background-color: var(--alert-bg-color);
+}
+
+#meal .nav {
+    --bs-nav-link-color: rgba(var(--bs-secondary-rgb));
+    --bs-nav-link-hover-color: rgba(var(--bs-secondary-rgb));
+}
+
+#meal .nav-underline {
+    --bs-nav-underline-border-width: 0.125rem;
+    --bs-nav-underline-link-active-color: var(--prep-icon-list-items-color);
+}
+
+.tap-height {
+    height: 350px;
+    overflow-y: auto;
+}
+
+.ingredients-bg-colour {
+    background-color: var(--bg-page-color);
+}
+
+.sodium-icon-bg-colour {
+    color: var(--sodium-icon-bg-color);
+}
+
+.sodium-icon-colour {
+    color: var(--sodium-icon-color);
+}
+
+.chef-tip-bg-colour {
+    background-color: var(--chef-tip-bg-colour);
+}
+
+.checked-icon-colour {
+    color: var(--checked-icon-bg-color);
+}
+
+.button-colour {
+    background-image: var(--recipe-button-lin-color);
+}
+
+/* end of meal */

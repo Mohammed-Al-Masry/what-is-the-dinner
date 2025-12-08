@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Is dinner not ready yet? Is dinner not something you have enough time to consider? The goal of this small project is to guide you through the selection of a meal, its recipe, and its complete preparation.">
+    <title>What's the dinner</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/media.css">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+</head>
+
+<body>
+
+    <!-- navbar -->
+    <nav id="nav" class="navbar navbar-expand-lg shadow-sm border-secondary bg-white">
+        <div class="container-fluid container-lg ">
+            <!-- logo -->
+            <a class="navbar-brand d-flex">
+                <div class="align-items-center fs-3">
+                    <span class="fa-stack fa-1x">
+                        <i class="fa-solid fa-circle fa-stack-2x logo-color"></i>
+                        <i class="fa-solid fa-utensils fa-stack-1x fa-inverse fs-5"></i>
+                    </span>
+                </div>
+                <div class="ms-2 align-items-center">
+                    <h1 class="h4 mb-0 fw-bold">What's For Dinner</h1>
+                    <p class="mb-0 fs-6 lead text-secondary">Your daily meal inspiration</p>
+                </div>
+            </a>
+            <!-- end of logo -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#usernavbar"
+                aria-controls="usernavbar" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="usernavbar">
+                <!-- links -->
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 fs-5">
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                            <i class="fa-solid fa-bookmark"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                            <i class="fa-solid fa-history"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                            <i class="fa-solid fa-gear"></i>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                            <img class="img-fluid ms-2 border border-2 border-warning user-avatar rounded-circle" src="images/user-avatar.jpg" alt="user's avatar">
+                        </a>
+                    </li>
+                </ul>
+                <!-- end of links -->
+            </div>
+        </div>
+    </nav>
+    <!-- end of navbar -->
+
+    <!-- meal -->
+    <main>
+        <section id="meal" class="mt-4 mb-5">
+            <!-- data generated from javascript -->
+        </section>
+    </main>
+    <!-- end of meal -->
+
+    <!-- javascript files -->
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/meals.js"></script>
+    <!-- end of javascript files -->
+</body>
+
+</html>
