@@ -3,7 +3,7 @@ var meals = [
   {
     recipeName: "Margherita Pizza",
     recipeDescription: "Classic Italian pizza with fresh mozzarella and basil",
-    recipeImage: "../images/Margherita-Pizza.jpeg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Margherita-Pizza.jpeg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Italian",
     recipePrepTime: 90,
@@ -26,7 +26,7 @@ var meals = [
   {
     recipeName: "Spaghetti Carbonara",
     recipeDescription: "Creamy pasta with eggs, cheese, pancetta, and black pepper",
-    recipeImage: "../images/Creamy-Spaghetti-Carbonara.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Creamy-Spaghetti-Carbonara.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Italian",
     recipePrepTime: 20,
@@ -49,7 +49,7 @@ var meals = [
   {
     recipeName: "Sushi Rolls (Maki)",
     recipeDescription: "Traditional Japanese seasoned rice rolled with fresh fish and vegetables",
-    recipeImage: "../images/Sushi-Rolls-(Maki).jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Sushi-Rolls-(Maki).jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Japanese",
     recipePrepTime: 45,
@@ -72,7 +72,7 @@ var meals = [
   {
     recipeName: "Pad Thai",
     recipeDescription: "Stir-fried rice noodle dish commonly served as street food in Thailand",
-    recipeImage: "../images/Pad-Thai.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Pad-Thai.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Thai",
     recipePrepTime: 20,
@@ -95,7 +95,7 @@ var meals = [
   {
     recipeName: "Tacos al Pastor",
     recipeDescription: "Corn tortillas filled with spit-grilled pork, pineapple, and salsa",
-    recipeImage: "../images/Tacos-al-Pastor.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Tacos-al-Pastor.jpg",
     recipeLevel: "Advanced",
     recipeOrigin: "Mexican",
     recipePrepTime: 120,
@@ -118,7 +118,7 @@ var meals = [
   {
     recipeName: "Butter Chicken",
     recipeDescription: "Chicken in a mildly spiced tomato sauce rich with butter and cream",
-    recipeImage: "../images/Butter-Chicken.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Butter-Chicken.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Indian",
     recipePrepTime: 60,
@@ -141,7 +141,7 @@ var meals = [
   {
     recipeName: "Classic Beef Burger",
     recipeDescription: "Juicy beef patty with fresh toppings in a soft bun",
-    recipeImage: "../images/Classic-Beef-Burger.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Classic-Beef-Burger.jpg",
     recipeLevel: "Beginner",
     recipeOrigin: "American",
     recipePrepTime: 15,
@@ -164,7 +164,7 @@ var meals = [
   {
     recipeName: "Beef Bourguignon",
     recipeDescription: "Beef stew braised in red wine, often red Burgundy, and beef stock",
-    recipeImage: "../images/Beef-Bourguignon.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Beef-Bourguignon.jpg",
     recipeLevel: "Hard",
     recipeOrigin: "French",
     recipePrepTime: 40,
@@ -187,7 +187,7 @@ var meals = [
   {
     recipeName: "Vietnamese Pho",
     recipeDescription: "Soup consisting of broth, rice noodles, herbs, and meat",
-    recipeImage: "../images/Vietnamese-Pho.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Vietnamese-Pho.jpg",
     recipeLevel: "Hard",
     recipeOrigin: "Vietnamese",
     recipePrepTime: 30,
@@ -210,7 +210,7 @@ var meals = [
   {
     recipeName: "Traditional Fish and Chips",
     recipeDescription: "Battered fish served with deep-fried chips",
-    recipeImage: "../images/Traditional-Fish-and-Chips.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Traditional-Fish-and-Chips.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "British",
     recipePrepTime: 30,
@@ -233,7 +233,7 @@ var meals = [
   {
     recipeName: "Kung Pao Chicken",
     recipeDescription: "Spicy, stir-fried Chinese dish made with cubes of chicken, peanuts, and chili peppers",
-    recipeImage: "../images/Kung-Pao-Chicken.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Kung-Pao-Chicken.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Chinese",
     recipePrepTime: 25,
@@ -256,7 +256,7 @@ var meals = [
   {
     recipeName: "Falafel",
     recipeDescription: "Deep-fried ball or patty-shaped fritter made from ground chickpeas",
-    recipeImage: "../images/Falafel.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Falafel.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Middle Eastern",
     recipePrepTime: 720,
@@ -279,7 +279,7 @@ var meals = [
   {
     recipeName: "Classic Lasagna",
     recipeDescription: "Stacked layers of pasta, meat sauce, and cheese",
-    recipeImage: "../images/Classic-Lasagna.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Classic-Lasagna.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Italian",
     recipePrepTime: 45,
@@ -302,7 +302,7 @@ var meals = [
   {
     recipeName: "Tonkotsu Ramen",
     recipeDescription: "Japanese noodle soup with a rich pork bone broth",
-    recipeImage: "../images/Tonkotsu-Ramen.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Tonkotsu-Ramen.jpg",
     recipeLevel: "Expert",
     recipeOrigin: "Japanese",
     recipePrepTime: 60,
@@ -325,7 +325,7 @@ var meals = [
   {
     recipeName: "Hyderabadi Biryani",
     recipeDescription: "Aromatic rice dish made with basmati rice, spices, and marinated chicken",
-    recipeImage: "../images/Hyderabadi-Biryani.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Hyderabadi-Biryani.jpg",
     recipeLevel: "Hard",
     recipeOrigin: "Indian",
     recipePrepTime: 60,
@@ -348,7 +348,7 @@ var meals = [
   {
     recipeName: "Canadian Poutine",
     recipeDescription: "French fries topped with cheese curds and brown gravy",
-    recipeImage: "../images/Canadian-Poutine.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Canadian-Poutine.jpg",
     recipeLevel: "Easy",
     recipeOrigin: "Canadian",
     recipePrepTime: 20,
@@ -371,7 +371,7 @@ var meals = [
   {
     recipeName: "Wiener Schnitzel",
     recipeDescription: "Thin, breaded and pan-fried veal cutlet",
-    recipeImage: "../images/Wiener-Schnitzel.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Wiener-Schnitzel.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Austrian",
     recipePrepTime: 20,
@@ -394,7 +394,7 @@ var meals = [
   {
     recipeName: "Brazilian Feijoada",
     recipeDescription: "Stew of black beans with beef and pork",
-    recipeImage: "../images/Brazilian-Feijoada.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Brazilian-Feijoada.jpg",
     recipeLevel: "Hard",
     recipeOrigin: "Brazilian",
     recipePrepTime: 720,
@@ -417,7 +417,7 @@ var meals = [
   {
     recipeName: "Greek Moussaka",
     recipeDescription: "Eggplant and potato-based dish with ground meat and béchamel sauce",
-    recipeImage: "../images/Greek-Moussaka.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Greek-Moussaka.jpg",
     recipeLevel: "Hard",
     recipeOrigin: "Greek",
     recipePrepTime: 60,
@@ -440,7 +440,7 @@ var meals = [
   {
     recipeName: "Beef Stroganoff",
     recipeDescription: "Sautéed pieces of beef served in a sauce with smetana (sour cream)",
-    recipeImage: "../images/Beef-Stroganoff.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Beef-Stroganoff.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Russian",
     recipePrepTime: 20,
@@ -463,7 +463,7 @@ var meals = [
   {
     recipeName: "Korean Bibimbap",
     recipeDescription: "Mixed rice with meat and assorted vegetables",
-    recipeImage: "../images/Korean-Bibimbap.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Korean-Bibimbap.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Korean",
     recipePrepTime: 45,
@@ -486,7 +486,7 @@ var meals = [
   {
     recipeName: "Tom Yum Goong",
     recipeDescription: "Hot and sour Thai soup with shrimp",
-    recipeImage: "../images/Tom-Yum-Goong.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Tom-Yum-Goong.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Thai",
     recipePrepTime: 20,
@@ -509,7 +509,7 @@ var meals = [
   {
     recipeName: "Argentine Steak with Chimichurri",
     recipeDescription: "Grilled steak served with a vinegar-based herb sauce",
-    recipeImage: "../images/Argentine-Steak-with-Chimichurri.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Argentine-Steak-with-Chimichurri.jpg",
     recipeLevel: "Easy",
     recipeOrigin: "Argentinian",
     recipePrepTime: 20,
@@ -532,7 +532,7 @@ var meals = [
   {
     recipeName: "Peking Duck",
     recipeDescription: "Famous duck dish from Beijing with thin, crisp skin",
-    recipeImage: "../images/Peking-Duck.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Peking-Duck.jpg",
     recipeLevel: "Expert",
     recipeOrigin: "Chinese",
     recipePrepTime: 1440,
@@ -555,7 +555,7 @@ var meals = [
   {
     recipeName: "Peruvian Ceviche",
     recipeDescription: "Fresh raw fish cured in fresh citrus juices",
-    recipeImage: "../images/Peruvian-Ceviche.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Peruvian-Ceviche.jpg",
     recipeLevel: "Easy",
     recipeOrigin: "Peruvian",
     recipePrepTime: 30,
@@ -578,7 +578,7 @@ var meals = [
   {
     recipeName: "Southern Fried Chicken",
     recipeDescription: "Chicken pieces coated in seasoned batter and deep fried",
-    recipeImage: "../images/Southern-Fried-Chicken.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Southern-Fried-Chicken.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "American",
     recipePrepTime: 240,
@@ -601,7 +601,7 @@ var meals = [
   {
     recipeName: "Shakshuka",
     recipeDescription: "Eggs poached in a sauce of tomatoes, olive oil, peppers, onion, and garlic",
-    recipeImage: "../images/Shakshuka.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Shakshuka.jpg",
     recipeLevel: "Easy",
     recipeOrigin: "North African",
     recipePrepTime: 10,
@@ -624,7 +624,7 @@ var meals = [
   {
     recipeName: "Hungarian Goulash",
     recipeDescription: "A hearty stew of meat and vegetables seasoned with paprika",
-    recipeImage: "../images/Hungarian-Goulash.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Hungarian-Goulash.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Hungarian",
     recipePrepTime: 30,
@@ -647,7 +647,7 @@ var meals = [
   {
     recipeName: "Koshary",
     recipeDescription: "Egyptian national dish mixing pasta, rice, lentils, and tomato sauce",
-    recipeImage: "../images/Koshary.jpg",
+    recipeImage: "https://mohammed-al-masry.github.io/what-is-the-dinner/ https://mohammed-al-masry.github.io/what-is-the-dinner/images/Koshary.jpg",
     recipeLevel: "Intermediate",
     recipeOrigin: "Egyptian",
     recipePrepTime: 45,
